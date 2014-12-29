@@ -24,7 +24,7 @@ $(document).ready(function(e) {
 
 #### Demo:
 
-http://mattstow.com/experiment/responsive-image-maps/rwd-image-maps.html
+local Demo directory
 
 ---
 
